@@ -1,4 +1,25 @@
 
+
+## United Kingdom
+
+<br>
+
+---
+
+<img src = 'https://avatars.githubusercontent.com/u/1826803?s=80' align = right>
+
+### [University of Leicester][Leicester Github] **[❌]**
+
+[![Website]][Leicester Website]
+[![Map]][Leicester Map]
+[![Twitter]][Leicester Twitter]
+
+---
+
+<br>
+<br>
+
+
 ## New Zealand
 
 <br>
@@ -46,10 +67,16 @@ Universities are marked with an ❌ if GitHub did not show a `Verified` label.
 *Check out **[GitHubs Article][How To Verify]** on the subject.*
 
 
-[Auckland Github]: https://github.com/university-of-auckland
-[Auckland Website]: https://www.auckland.ac.nz/
-[Auckland Map]: https://www.openstreetmap.org/relation/10726338
-[Auckland Twitter]: https://twitter.com/AucklandUni
+
+[Leicester Github]: https://github.com/university-of-leicester 'Github organization of the University of Leicester'
+[Leicester Website]: https://le.ac.uk/ 'Website of the University of Leicester'
+[Leicester Map]: https://www.openstreetmap.org/way/294350815 'University of Leicester on OpenStreetMaps'
+[Leicester Twitter]: https://twitter.com/uniofleicester 'Twitter account of the University of Leicester'
+
+[Auckland Github]: https://github.com/university-of-auckland 'Github organization of the University of Auckland'
+[Auckland Website]: https://www.auckland.ac.nz/ 'Website of the University of Auckland'
+[Auckland Map]: https://www.openstreetmap.org/relation/10726338 'University of Auckland on OpenStreetMaps'
+[Auckland Twitter]: https://twitter.com/AucklandUni 'Twitter account of the University of Auckland'
 
 [Mostar Github]: https://github.com/University-of-Mostar 'Github organization of the University of Mostar'
 [Mostar Website]: https://www.sum.ba/ 'Website of the University of Mostar'
