@@ -1,0 +1,31 @@
+-
+    university : Leicester
+    country : United Kingdom
+    avatar : 1826803
+    verified : false
+    github : university-of-leicester
+    website : le.ac.uk
+    twitter : uniofleicester
+    openstreetmap : way/294350815
+    
+-
+    university : Auckland
+    country : New Zealand
+    avatar : 43266232
+    verified : true
+    github : university-of-auckland
+    website : www.auckland.ac.nz
+    twitter : AucklandUni
+    openstreetmap : relation/10726338
+    
+-
+    university : Mostar
+    country : Bosnia
+    avatar : 72824516
+    verified : false
+    github : University-of-Mostar
+    website : www.sum.ba
+    twitter : sve_mostar
+    openstreetmap : way/425999432
+    
+    
