@@ -241,6 +241,46 @@
 
 ---
 
+<br>
+<br>
+
+
+## Germany
+
+<br>
+
+---
+
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/1181129?s=80' align = right>
+
+### [University of Münster][Münster Github] **[❌]**
+
+[![Website]][Münster Website] [![Map]][Münster Map] [![Twitter]][Münster Twitter]
+
+
+---
+
+<br>
+<br>
+
+
+## Australia
+
+<br>
+
+---
+
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/97938474?s=80' align = right>
+
+### [University of Newcastle][Newcastle Github] **[❌]**
+
+[![Website]][Newcastle Website] [![Map]][Newcastle Map] [![Twitter]][Newcastle Twitter]
+
+
+---
+
 
 <br>
 <br>
@@ -322,6 +362,14 @@ Universities are marked with an ❌ if GitHub did not show a `Verified` label.
 [Suffolk Website]: https://uos.ac.uk 'Website of the University of Suffolk'
 [Suffolk Map]: https://www.openstreetmap.org/way/145602280 'University of Suffolk on OpenStreetMaps'
 [Suffolk Twitter]: https://twitter.com/UniofSuffolk 'Twitter account of the University of Suffolk'
+[Münster GitHub]: https://github.com/University-of-Muenster 'GitHub organization of the University of Münster'
+[Münster Website]: https://www.wwu.de 'Website of the University of Münster'
+[Münster Map]: https://www.openstreetmap.org/relation/4745499 'University of Münster on OpenStreetMaps'
+[Münster Twitter]: https://twitter.com/WWU_Muenster 'Twitter account of the University of Münster'
+[Newcastle GitHub]: https://github.com/TheUniversityofNewcastle 'GitHub organization of the University of Newcastle'
+[Newcastle Website]: https://newcastle.edu.au 'Website of the University of Newcastle'
+[Newcastle Map]: https://www.openstreetmap.org/way/163772556 'University of Newcastle on OpenStreetMaps'
+[Newcastle Twitter]: https://twitter.com/uni_newcastle 'Twitter account of the University of Newcastle'
 
 [Website]: https://img.shields.io/badge/Website-414141?style=for-the-badge
 [Map]: https://img.shields.io/badge/Map-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white
