@@ -8,7 +8,7 @@
 ---
 
 
-<img src = 'https://avatars.githubusercontent.com/u/1826803?s=80' align = right>
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/1826803?s=80' align = right>
 
 ### [University of Leicester][Leicester Github] **[❌]**
 
@@ -16,7 +16,7 @@
 
 ---
 
-<img src = 'https://avatars.githubusercontent.com/u/44584013?s=80' align = right>
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/44584013?s=80' align = right>
 
 ### [University of Brighton][Brighton Github] **[❌]**
 
@@ -24,7 +24,7 @@
 
 ---
 
-<img src = 'https://avatars.githubusercontent.com/u/19387613?s=80' align = right>
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/19387613?s=80' align = right>
 
 ### [University of Portsmouth][Portsmouth Github] **[❌]**
 
@@ -32,7 +32,7 @@
 
 ---
 
-<img src = 'https://avatars.githubusercontent.com/u/56068506?s=80' align = right>
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/56068506?s=80' align = right>
 
 ### [University of East Anglia][East Anglia Github] **[❌]**
 
@@ -52,7 +52,7 @@
 ---
 
 
-<img src = 'https://avatars.githubusercontent.com/u/43266232?s=80' align = right>
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/43266232?s=80' align = right>
 
 ### [University of Auckland][Auckland Github]
 
@@ -72,7 +72,7 @@
 ---
 
 
-<img src = 'https://avatars.githubusercontent.com/u/72824516?s=80' align = right>
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/72824516?s=80' align = right>
 
 ### [University of Mostar][Mostar Github] **[❌]**
 
@@ -92,7 +92,7 @@
 ---
 
 
-<img src = 'https://avatars.githubusercontent.com/u/82064549?s=80' align = right>
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/82064549?s=80' align = right>
 
 ### [University of Colorado][Colorado Github] **[❌]**
 
@@ -100,11 +100,27 @@
 
 ---
 
-<img src = 'https://avatars.githubusercontent.com/u/19687260?s=80' align = right>
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/19687260?s=80' align = right>
 
 ### [University of New Haven][New Haven Github] **[❌]**
 
 [![Website]][New Haven Website] [![Map]][New Haven Map] [![Twitter]][New Haven Twitter]
+
+---
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/15511039?s=80' align = right>
+
+### [University of Hawaii][Hawaii Github] **[❌]**
+
+[![Website]][Hawaii Website] [![Map]][Hawaii Map] [![Twitter]][Hawaii Twitter]
+
+---
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/99055930?s=80' align = right>
+
+### [University of Nebraska Omaha][Nebraska Omaha Github] **[❌]**
+
+[![Website]][Nebraska Omaha Website] [![Map]][Nebraska Omaha Map] [![Twitter]][Nebraska Omaha Twitter]
 
 
 ---
@@ -120,11 +136,51 @@
 ---
 
 
-<img src = 'https://avatars.githubusercontent.com/u/19716258?s=80' align = right>
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/19716258?s=80' align = right>
 
 ### [University of Calgary][Calgary Github] **[❌]**
 
 [![Website]][Calgary Website] [![Map]][Calgary Map] [![Twitter]][Calgary Twitter]
+
+
+---
+
+<br>
+<br>
+
+
+## Netherlands
+
+<br>
+
+---
+
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/25030096?s=80' align = right>
+
+### [University of Twente][Twente Github] **[❌]**
+
+[![Website]][Twente Website] [![Map]][Twente Map] [![Twitter]][Twente Twitter]
+
+
+---
+
+<br>
+<br>
+
+
+## Belgium
+
+<br>
+
+---
+
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/34010474?s=80' align = right>
+
+### [University of Mons][Mons Github] **[❌]**
+
+[![Website]][Mons Website] [![Map]][Mons Map] [![Twitter]][Mons Twitter]
 
 
 ---
@@ -178,6 +234,22 @@ Universities are marked with an ❌ if GitHub did not show a `Verified` label.
 [New Haven Website]: https://www.newhaven.edu 'Website of the University of New Haven'
 [New Haven Map]: https://www.openstreetmap.org/way/42735104 'University of New Haven on OpenStreetMaps'
 [New Haven Twitter]: https://twitter.com/unewhaven 'Twitter account of the University of New Haven'
+[Twente GitHub]: https://github.com/university-of-twente 'GitHub organization of the University of Twente'
+[Twente Website]: https://www.utwente.nl 'Website of the University of Twente'
+[Twente Map]: https://www.openstreetmap.org/way/309888198 'University of Twente on OpenStreetMaps'
+[Twente Twitter]: https://twitter.com/utwente 'Twitter account of the University of Twente'
+[Hawaii GitHub]: https://github.com/university-of-hawaii 'GitHub organization of the University of Hawaii'
+[Hawaii Website]: https://www.hawaii.edu 'Website of the University of Hawaii'
+[Hawaii Map]: https://www.openstreetmap.org/way/277106475 'University of Hawaii on OpenStreetMaps'
+[Hawaii Twitter]: https://twitter.com/UHawaiiNews 'Twitter account of the University of Hawaii'
+[Mons GitHub]: https://github.com/University-of-Mons 'GitHub organization of the University of Mons'
+[Mons Website]: https://web.umons.ac.be 'Website of the University of Mons'
+[Mons Map]: https://www.openstreetmap.org/relation/10544282 'University of Mons on OpenStreetMaps'
+[Mons Twitter]: https://twitter.com/UMONS 'Twitter account of the University of Mons'
+[Nebraska Omaha GitHub]: https://github.com/University-of-Nebraska-Omaha 'GitHub organization of the University of Nebraska Omaha'
+[Nebraska Omaha Website]: https://www.unomaha.edu 'Website of the University of Nebraska Omaha'
+[Nebraska Omaha Map]: https://www.openstreetmap.org/way/185570716 'University of Nebraska Omaha on OpenStreetMaps'
+[Nebraska Omaha Twitter]: https://twitter.com/unomaha 'Twitter account of the University of Nebraska Omaha'
 
 [Website]: https://img.shields.io/badge/Website-414141?style=for-the-badge
 [Map]: https://img.shields.io/badge/Map-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white
