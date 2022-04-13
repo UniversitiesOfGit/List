@@ -203,7 +203,9 @@
     country : United States
     avatar : 97687975
     verified : false
-    github : University-of-Delaware-IT-RCI
+    github : University-of-Delaware
     website : udel.edu
     twitter : UDelaware
     openstreetmap : node/2768377929
+    organizations:
+        University-of-Delaware-IT-RCI: IT - Research Cyberinfrastructure

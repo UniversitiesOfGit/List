@@ -39,12 +39,23 @@ function universityTemplate(university){
     if(twitter)
         badges.push(badge('Twitter',`${ name } Twitter`));
     
+    let extra = '';
+    
+    const { organizations } = university;
+    
+    if(organizations)
+        for(const [ account , name ] of Object.entries(organizations)){
+            extra += `[![](https://img.shields.io/badge/${ name.replaceAll('-','--').replaceAll(' ','_') }-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/${ account })`            
+        }
+    
     return `
     ${ avatarPreview(avatar) }
     
     ### ${ link(`University of ${ name }`,`${ name } Github`) }${ verified_indicator }
     
     ${ badges.join(' ') }
+    
+    ${ extra }
     `;
 }
 
