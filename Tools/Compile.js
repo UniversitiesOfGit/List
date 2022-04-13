@@ -103,6 +103,10 @@ function pageTemplate(universities){
     
     ${ groups.join('\n<br>\n<br>\n\n') }
     
+    <br>
+    <br>
+    <br>
+    
     ## Unverified
 
     Universities are marked with an ❌ if GitHub did not show a \`Verified\` label.
