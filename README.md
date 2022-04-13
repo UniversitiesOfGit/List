@@ -38,6 +38,22 @@
 
 [![Website]][East Anglia Website] [![Map]][East Anglia Map] [![Twitter]][East Anglia Twitter]
 
+---
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/39163669?s=80' align = right>
+
+### [University of Hull][Hull Github] **[❌]**
+
+[![Website]][Hull Website] [![Map]][Hull Map] [![Twitter]][Hull Twitter]
+
+---
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/45787181?s=80' align = right>
+
+### [University of Suffolk][Suffolk Github] **[❌]**
+
+[![Website]][Suffolk Website] [![Map]][Suffolk Map] [![Twitter]][Suffolk Twitter]
+
 
 ---
 
@@ -185,6 +201,46 @@
 
 ---
 
+<br>
+<br>
+
+
+## Norway
+
+<br>
+
+---
+
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/28588847?s=80' align = right>
+
+### [University of Sørøst Norge][Sørøst Norge Github] **[❌]**
+
+[![Website]][Sørøst Norge Website] [![Map]][Sørøst Norge Map] [![Twitter]][Sørøst Norge Twitter]
+
+
+---
+
+<br>
+<br>
+
+
+## Bangladesh
+
+<br>
+
+---
+
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/26029717?s=80' align = right>
+
+### [University of Chittagong][Chittagong Github] **[❌]**
+
+[![Website]][Chittagong Website] [![Map]][Chittagong Map] [![Twitter]][Chittagong Twitter]
+
+
+---
+
 
 <br>
 <br>
@@ -250,6 +306,22 @@ Universities are marked with an ❌ if GitHub did not show a `Verified` label.
 [Nebraska Omaha Website]: https://www.unomaha.edu 'Website of the University of Nebraska Omaha'
 [Nebraska Omaha Map]: https://www.openstreetmap.org/way/185570716 'University of Nebraska Omaha on OpenStreetMaps'
 [Nebraska Omaha Twitter]: https://twitter.com/unomaha 'Twitter account of the University of Nebraska Omaha'
+[Sørøst Norge GitHub]: https://github.com/University-of-Southeast-Norway 'GitHub organization of the University of Sørøst Norge'
+[Sørøst Norge Website]: https://www.usn.no 'Website of the University of Sørøst Norge'
+[Sørøst Norge Map]: https://www.openstreetmap.org/way/833323013 'University of Sørøst Norge on OpenStreetMaps'
+[Sørøst Norge Twitter]: https://twitter.com/usn_info 'Twitter account of the University of Sørøst Norge'
+[Hull GitHub]: https://github.com/University-of-Hull 'GitHub organization of the University of Hull'
+[Hull Website]: https://hull.ac.uk 'Website of the University of Hull'
+[Hull Map]: https://www.openstreetmap.org/way/24650416 'University of Hull on OpenStreetMaps'
+[Hull Twitter]: https://twitter.com/UniOfHull 'Twitter account of the University of Hull'
+[Chittagong GitHub]: https://github.com/University-of-Chittagong 'GitHub organization of the University of Chittagong'
+[Chittagong Website]: https://cu.ac.bd 'Website of the University of Chittagong'
+[Chittagong Map]: https://www.openstreetmap.org/way/750974414 'University of Chittagong on OpenStreetMaps'
+[Chittagong Twitter]: https://twitter.com/UChittagong 'Twitter account of the University of Chittagong'
+[Suffolk GitHub]: https://github.com/university-of-suffolk 'GitHub organization of the University of Suffolk'
+[Suffolk Website]: https://uos.ac.uk 'Website of the University of Suffolk'
+[Suffolk Map]: https://www.openstreetmap.org/way/145602280 'University of Suffolk on OpenStreetMaps'
+[Suffolk Twitter]: https://twitter.com/UniofSuffolk 'Twitter account of the University of Suffolk'
 
 [Website]: https://img.shields.io/badge/Website-414141?style=for-the-badge
 [Map]: https://img.shields.io/badge/Map-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white
