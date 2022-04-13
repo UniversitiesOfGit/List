@@ -56,7 +56,7 @@ function countryTemplate(country,universities){
 
     ---
     
-    ${ universities.map(universityTemplate).join('\n---\n\n<br>\n\n---\n') }
+    ${ universities.map(universityTemplate).join('\n---\n') }
     
     ---
     `;
