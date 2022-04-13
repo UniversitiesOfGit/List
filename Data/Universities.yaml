@@ -57,3 +57,33 @@
     website : www.cu.edu
     twitter : CUSystem
     openstreetmap : relation/10004474
+    
+-
+    university : Calgary
+    country : Canada
+    avatar : 19716258
+    verified : false
+    github : University-Of-Calgary
+    website : www.ucalgary.ca
+    twitter : ucalgary
+    openstreetmap : way/4814074
+
+-
+    university : East Anglia
+    country : United Kingdom
+    avatar : 56068506
+    verified : false
+    github : University-of-East-Anglia
+    website : www.uea.ac.uk
+    twitter : uniofeastanglia
+    openstreetmap : way/537365487
+    
+-
+    university : New Haven
+    country : United States
+    avatar : 19687260
+    verified : false
+    github : University-of-New-Haven
+    website : www.newhaven.edu
+    twitter : unewhaven
+    openstreetmap : way/42735104
