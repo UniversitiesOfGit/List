@@ -4,7 +4,7 @@ const { log } = console;
 
 
 function avatarPreview(avatarId){
-    return `<img src = 'https://avatars.githubusercontent.com/u/${ avatarId }?s=80' align = right>`;
+    return `<img width = 80 src = 'https://avatars.githubusercontent.com/u/${ avatarId }?s=80' align = right>`;
 }
 
 function badge(badge,link){
