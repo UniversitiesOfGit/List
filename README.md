@@ -14,6 +14,8 @@
 
 [![Website]][Leicester Website] [![Map]][Leicester Map] [![Twitter]][Leicester Twitter]
 
+
+
 ---
 
 <img width = 80 src = 'https://avatars.githubusercontent.com/u/44584013?s=80' align = right>
@@ -21,6 +23,8 @@
 ### [University of Brighton][Brighton Github] **[❌]**
 
 [![Website]][Brighton Website] [![Map]][Brighton Map] [![Twitter]][Brighton Twitter]
+
+
 
 ---
 
@@ -30,6 +34,8 @@
 
 [![Website]][Portsmouth Website] [![Map]][Portsmouth Map] [![Twitter]][Portsmouth Twitter]
 
+
+
 ---
 
 <img width = 80 src = 'https://avatars.githubusercontent.com/u/56068506?s=80' align = right>
@@ -37,6 +43,8 @@
 ### [University of East Anglia][East Anglia Github] **[❌]**
 
 [![Website]][East Anglia Website] [![Map]][East Anglia Map] [![Twitter]][East Anglia Twitter]
+
+
 
 ---
 
@@ -46,6 +54,8 @@
 
 [![Website]][Hull Website] [![Map]][Hull Map] [![Twitter]][Hull Twitter]
 
+
+
 ---
 
 <img width = 80 src = 'https://avatars.githubusercontent.com/u/45787181?s=80' align = right>
@@ -53,6 +63,18 @@
 ### [University of Suffolk][Suffolk Github] **[❌]**
 
 [![Website]][Suffolk Website] [![Map]][Suffolk Map] [![Twitter]][Suffolk Twitter]
+
+
+
+---
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/100215701?s=80' align = right>
+
+### [University of Lincoln][Lincoln Github] **[❌]**
+
+[![Website]][Lincoln Website] [![Map]][Lincoln Map] [![Twitter]][Lincoln Twitter]
+
+
 
 
 ---
@@ -75,6 +97,8 @@
 [![Website]][Auckland Website] [![Map]][Auckland Map] [![Twitter]][Auckland Twitter]
 
 
+
+
 ---
 
 <br>
@@ -93,6 +117,8 @@
 ### [University of Mostar][Mostar Github] **[❌]**
 
 [![Website]][Mostar Website] [![Map]][Mostar Map] [![Twitter]][Mostar Twitter]
+
+
 
 
 ---
@@ -114,6 +140,8 @@
 
 [![Website]][Colorado Website] [![Map]][Colorado Map] [![Twitter]][Colorado Twitter]
 
+
+
 ---
 
 <img width = 80 src = 'https://avatars.githubusercontent.com/u/19687260?s=80' align = right>
@@ -121,6 +149,8 @@
 ### [University of New Haven][New Haven Github] **[❌]**
 
 [![Website]][New Haven Website] [![Map]][New Haven Map] [![Twitter]][New Haven Twitter]
+
+
 
 ---
 
@@ -130,6 +160,8 @@
 
 [![Website]][Hawaii Website] [![Map]][Hawaii Map] [![Twitter]][Hawaii Twitter]
 
+
+
 ---
 
 <img width = 80 src = 'https://avatars.githubusercontent.com/u/99055930?s=80' align = right>
@@ -137,6 +169,18 @@
 ### [University of Nebraska Omaha][Nebraska Omaha Github] **[❌]**
 
 [![Website]][Nebraska Omaha Website] [![Map]][Nebraska Omaha Map] [![Twitter]][Nebraska Omaha Twitter]
+
+
+
+---
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/97687975?s=80' align = right>
+
+### [University of Delaware][Delaware Github] **[❌]**
+
+[![Website]][Delaware Website] [![Map]][Delaware Map] [![Twitter]][Delaware Twitter]
+
+[![](https://img.shields.io/badge/IT_--_Research_Cyberinfrastructure-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/University-of-Delaware-IT-RCI)
 
 
 ---
@@ -159,6 +203,8 @@
 [![Website]][Calgary Website] [![Map]][Calgary Map] [![Twitter]][Calgary Twitter]
 
 
+
+
 ---
 
 <br>
@@ -177,6 +223,18 @@
 ### [University of Twente][Twente Github] **[❌]**
 
 [![Website]][Twente Website] [![Map]][Twente Map] [![Twitter]][Twente Twitter]
+
+
+
+---
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/10723448?s=80' align = right>
+
+### [University of Groningen][Groningen Github] **[❌]**
+
+[![Website]][Groningen Website] [![Map]][Groningen Map] [![Twitter]][Groningen Twitter]
+
+[![](https://img.shields.io/badge/Distributed_Systems-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-ds-lab)[![](https://img.shields.io/badge/Artificial_Intelligence-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-ai-oop)[![](https://img.shields.io/badge/High_Performance_Computing-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-cit-hpc)[![](https://img.shields.io/badge/Research_Data_Management_System-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-cit-rdms)[![](https://img.shields.io/badge/Computational_Linguistics-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-compling)[![](https://img.shields.io/badge/Library-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/University-of-Groningen-Library)[![](https://img.shields.io/badge/Data_Science_Team-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-cit-ds)
 
 
 ---
@@ -199,6 +257,8 @@
 [![Website]][Mons Website] [![Map]][Mons Map] [![Twitter]][Mons Twitter]
 
 
+
+
 ---
 
 <br>
@@ -217,6 +277,8 @@
 ### [University of Sørøst Norge][Sørøst Norge Github] **[❌]**
 
 [![Website]][Sørøst Norge Website] [![Map]][Sørøst Norge Map] [![Twitter]][Sørøst Norge Twitter]
+
+
 
 
 ---
@@ -239,6 +301,8 @@
 [![Website]][Chittagong Website] [![Map]][Chittagong Map] [![Twitter]][Chittagong Twitter]
 
 
+
+
 ---
 
 <br>
@@ -259,6 +323,8 @@
 [![Website]][Münster Website] [![Map]][Münster Map] [![Twitter]][Münster Twitter]
 
 
+
+
 ---
 
 <br>
@@ -277,6 +343,8 @@
 ### [University of Newcastle][Newcastle Github] **[❌]**
 
 [![Website]][Newcastle Website] [![Map]][Newcastle Map] [![Twitter]][Newcastle Twitter]
+
+
 
 
 ---
@@ -370,6 +438,18 @@ Universities are marked with an ❌ if GitHub did not show a `Verified` label.
 [Newcastle Website]: https://newcastle.edu.au 'Website of the University of Newcastle'
 [Newcastle Map]: https://www.openstreetmap.org/way/163772556 'University of Newcastle on OpenStreetMaps'
 [Newcastle Twitter]: https://twitter.com/uni_newcastle 'Twitter account of the University of Newcastle'
+[Lincoln GitHub]: https://github.com/university-of-lincoln 'GitHub organization of the University of Lincoln'
+[Lincoln Website]: https://www.lincoln.ac.uk 'Website of the University of Lincoln'
+[Lincoln Map]: https://www.openstreetmap.org/node/8001541521 'University of Lincoln on OpenStreetMaps'
+[Lincoln Twitter]: https://twitter.com/unilincoln 'Twitter account of the University of Lincoln'
+[Delaware GitHub]: https://github.com/University-of-Delaware 'GitHub organization of the University of Delaware'
+[Delaware Website]: https://udel.edu 'Website of the University of Delaware'
+[Delaware Map]: https://www.openstreetmap.org/node/2768377929 'University of Delaware on OpenStreetMaps'
+[Delaware Twitter]: https://twitter.com/UDelaware 'Twitter account of the University of Delaware'
+[Groningen GitHub]: https://github.com/rijksuniversiteit-groningen 'GitHub organization of the University of Groningen'
+[Groningen Website]: https://rug.nl 'Website of the University of Groningen'
+[Groningen Map]: https://www.openstreetmap.org/way/104515337 'University of Groningen on OpenStreetMaps'
+[Groningen Twitter]: https://twitter.com/univgroningen 'Twitter account of the University of Groningen'
 
 [Website]: https://img.shields.io/badge/Website-414141?style=for-the-badge
 [Map]: https://img.shields.io/badge/Map-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white
