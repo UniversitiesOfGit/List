@@ -43,10 +43,23 @@ function universityTemplate(university){
     
     const { organizations } = university;
     
-    if(organizations)
-        for(const [ account , name ] of Object.entries(organizations)){
-            extra += `[![](https://img.shields.io/badge/${ name.replaceAll('-','--').replaceAll(' ','_') }-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/${ account })`            
+    if(organizations){
+        const orgs = organizations.sort(({ label : a },{ label : b }) => b.length - a.length);
+        
+        for(const { account , label , verified } of orgs){
+            
+            if(verified)
+                extra += '    ';
+            else
+                extra += `**[❌]** `
+            
+            extra += `[![](https://img.shields.io/badge/${ 
+                label.replaceAll('-','--').replaceAll(' ','_') 
+            }-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/${ account })`            
+        
+            extra += '<br>';
         }
+    }
     
     return `
     ${ avatarPreview(avatar) }

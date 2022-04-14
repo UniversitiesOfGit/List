@@ -208,7 +208,9 @@
     twitter : UDelaware
     openstreetmap : node/2768377929
     organizations:
-        University-of-Delaware-IT-RCI : IT - Research Cyberinfrastructure
+        -
+            account : University-of-Delaware-IT-RCI
+            label : IT - Research Cyberinfrastructure
         
 -
     university : Groningen
@@ -220,10 +222,24 @@
     twitter : univgroningen
     openstreetmap : way/104515337
     organizations:
-        rug-ds-lab : Distributed Systems
-        rug-ai-oop : Artificial Intelligence
-        rug-cit-hpc : High Performance Computing
-        rug-cit-rdms : Research Data Management System
-        rug-compling : Computational Linguistics
-        University-of-Groningen-Library : Library
-        rug-cit-ds : Data Science Team
+        - 
+            account : University-of-Groningen-Library 
+            label : Library
+        -
+            account : rug-compling 
+            label : Computational Linguistics
+        -
+            account : rug-cit-rdms
+            label : Research Data Management System
+        -
+            account : rug-cit-hpc
+            label : High Performance Computing
+        -
+            account : rug-cit-ds
+            label : Data Science Team
+        -
+            account : rug-ds-lab
+            label : Distributed Systems
+        -
+            account : rug-ai-oop
+            label : Artificial Intelligence
