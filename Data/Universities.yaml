@@ -276,3 +276,53 @@
         -
             label : Computer Science
             account : uco-cs
+            
+-
+    university : Harvard
+    country : United States
+    avatar : 5289128
+    verified : false
+    github : harvard
+    website : harvard.edu
+    twitter : harvard
+    openstreetmap : relation/2415825
+    organizations:
+        - 
+            label : Communicable Disease Dynamics
+            account : c2-d2
+        -
+            label : Planning and Design
+            account : hpoharvard
+        -
+            label : Teaching and Learning Technologies
+            account : Harvard-University-TLT
+        -
+            label : Geographic Analysis
+            account : cga-harvard
+        -
+            label : Information Technology
+            account : HUIT-OSS
+        -    
+            label : Information Technology
+            account : harvard-huit
+        -
+            label : Division of Continuing Education
+            account : harvard-dce
+        -
+            label : Food In Society
+            account : HarvardUniversity-FoodinSociety
+        -
+            label : Arts & Sciences Research Computing
+            account : fasrc
+        -
+            label :  Arts & Humanities Research Computing
+            account : artshumrc
+        -
+            label : International Development
+            account : cid-harvard
+        -
+            label : iCommons
+            account : Harvard-University-iCommons
+        -
+            label : STAT 115
+            account : stat115
