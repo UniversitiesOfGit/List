@@ -208,4 +208,22 @@
     twitter : UDelaware
     openstreetmap : node/2768377929
     organizations:
-        University-of-Delaware-IT-RCI: IT - Research Cyberinfrastructure
+        University-of-Delaware-IT-RCI : IT - Research Cyberinfrastructure
+        
+-
+    university : Groningen
+    country : Netherlands
+    avatar : 10723448
+    verified : false
+    github : rijksuniversiteit-groningen
+    website : rug.nl
+    twitter : univgroningen
+    openstreetmap : way/104515337
+    organizations:
+        rug-ds-lab : Distributed Systems
+        rug-ai-oop : Artificial Intelligence
+        rug-cit-hpc : High Performance Computing
+        rug-cit-rdms : Research Data Management System
+        rug-compling : Computational Linguistics
+        University-of-Groningen-Library : Library
+        rug-cit-ds : Data Science Team
