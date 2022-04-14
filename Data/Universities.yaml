@@ -259,3 +259,20 @@
         - 
             label : Edinburg
             location : way/276326924
+            
+-
+    university : Central Oklahoma
+    country : United States
+    avatar : 77847111
+    verified : false
+    github : university-of-central-oklahoma
+    website : www.uco.edu
+    twitter : UCOBronchos
+    openstreetmap : way/238116988
+    organizations:
+        - 
+            label : Cybersecurity
+            account : uco-cyber
+        -
+            label : Computer Science
+            account : uco-cs
