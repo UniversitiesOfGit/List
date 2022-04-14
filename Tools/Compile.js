@@ -33,11 +33,20 @@ function universityTemplate(university){
     if(website)
         badges.push(badge('Website',`${ name } Website`));
         
-    if(openstreetmap)
-        badges.push(badge('Map',`${ name } Map`));
-    
     if(twitter)
         badges.push(badge('Twitter',`${ name } Twitter`));
+    
+        
+    if(openstreetmap)
+        if(Array.isArray(openstreetmap)){
+            for(const { location , label } of openstreetmap)
+                badges.push(`[![](https://img.shields.io/badge/${ 
+                    label.replaceAll('-','--').replaceAll(' ','_') 
+                }-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)][${ name } Map ${ label }]`);
+        } else {
+            badges.push(badge('Map',`${ name } Map`));
+        }
+    
     
     let extra = '';
     
@@ -94,8 +103,14 @@ function linksFromUniversity(university){
     
     links.push(`[${ name } GitHub]: https://github.com/${ github } 'GitHub organization of the University of ${ name }'`);
     links.push(`[${ name } Website]: https://${ website } 'Website of the University of ${ name }'`);
-    links.push(`[${ name } Map]: https://www.openstreetmap.org/${ openstreetmap } 'University of ${ name } on OpenStreetMaps'`);
     links.push(`[${ name } Twitter]: https://twitter.com/${ twitter } 'Twitter account of the University of ${ name }'`);
+    
+    if(Array.isArray(openstreetmap))
+        for(const { label , location } of openstreetmap)
+            links.push(`[${ name } Map ${ label }]: https://www.openstreetmap.org/${ location } 'University of ${ name } on OpenStreetMaps'`);
+    else
+        links.push(`[${ name } Map]: https://www.openstreetmap.org/${ openstreetmap } 'University of ${ name } on OpenStreetMaps'`);
+    
     
     return links;
 }

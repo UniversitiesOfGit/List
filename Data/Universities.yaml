@@ -223,23 +223,39 @@
     openstreetmap : way/104515337
     organizations:
         - 
-            account : University-of-Groningen-Library 
             label : Library
+            account : University-of-Groningen-Library 
         -
-            account : rug-compling 
             label : Computational Linguistics
+            account : rug-compling 
         -
-            account : rug-cit-rdms
             label : Research Data Management System
+            account : rug-cit-rdms
         -
-            account : rug-cit-hpc
             label : High Performance Computing
+            account : rug-cit-hpc
         -
-            account : rug-cit-ds
             label : Data Science Team
+            account : rug-cit-ds
         -
-            account : rug-ds-lab
             label : Distributed Systems
+            account : rug-ds-lab
         -
-            account : rug-ai-oop
             label : Artificial Intelligence
+            account : rug-ai-oop
+
+-
+    university : Rio Grande Valley
+    country : United States
+    avatar : 78780985
+    verified : false
+    github : University-of-Texas-Rio-Grande-Valley
+    website : www.utrgv.edu
+    twitter : utrgv
+    openstreetmap : 
+        - 
+            label : Brownsville
+            location : way/736669483
+        - 
+            label : Edinburg
+            location : way/276326924
