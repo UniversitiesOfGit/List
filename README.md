@@ -192,6 +192,26 @@
 
 
 
+---
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/77847111?s=80' align = right>
+
+### [University of Central Oklahoma][Central Oklahoma Github] **[❌]**
+
+[![Website]][Central Oklahoma Website] [![Twitter]][Central Oklahoma Twitter] [![Map]][Central Oklahoma Map]
+
+**[❌]** [![](https://img.shields.io/badge/Computer_Science-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uco-cs)<br>**[❌]** [![](https://img.shields.io/badge/Cybersecurity-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uco-cyber)<br>
+
+---
+
+<img width = 80 src = 'https://avatars.githubusercontent.com/u/5289128?s=80' align = right>
+
+### [University of Harvard][Harvard Github] **[❌]**
+
+[![Website]][Harvard Website] [![Twitter]][Harvard Twitter] [![Map]][Harvard Map]
+
+**[❌]** [![](https://img.shields.io/badge/Arts_&_Humanities_Research_Computing-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artshumrc)<br>**[❌]** [![](https://img.shields.io/badge/Teaching_and_Learning_Technologies-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harvard-University-TLT)<br>**[❌]** [![](https://img.shields.io/badge/Arts_&_Sciences_Research_Computing-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fasrc)<br>**[❌]** [![](https://img.shields.io/badge/Division_of_Continuing_Education-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harvard-dce)<br>**[❌]** [![](https://img.shields.io/badge/Communicable_Disease_Dynamics-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c2-d2)<br>**[❌]** [![](https://img.shields.io/badge/International_Development-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cid-harvard)<br>**[❌]** [![](https://img.shields.io/badge/Information_Technology-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HUIT-OSS)<br>**[❌]** [![](https://img.shields.io/badge/Information_Technology-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harvard-huit)<br>**[❌]** [![](https://img.shields.io/badge/Planning_and_Design-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hpoharvard)<br>**[❌]** [![](https://img.shields.io/badge/Geographic_Analysis-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cga-harvard)<br>**[❌]** [![](https://img.shields.io/badge/Food_In_Society-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarvardUniversity-FoodinSociety)<br>**[❌]** [![](https://img.shields.io/badge/iCommons-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harvard-University-iCommons)<br>**[❌]** [![](https://img.shields.io/badge/STAT_115-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stat115)<br>
+
 
 ---
 
@@ -465,6 +485,14 @@ Universities are marked with an ❌ if GitHub did not show a `Verified` label.
 [Rio Grande Valley Twitter]: https://twitter.com/utrgv 'Twitter account of the University of Rio Grande Valley'
 [Rio Grande Valley Map Brownsville]: https://www.openstreetmap.org/way/736669483 'University of Rio Grande Valley on OpenStreetMaps'
 [Rio Grande Valley Map Edinburg]: https://www.openstreetmap.org/way/276326924 'University of Rio Grande Valley on OpenStreetMaps'
+[Central Oklahoma GitHub]: https://github.com/university-of-central-oklahoma 'GitHub organization of the University of Central Oklahoma'
+[Central Oklahoma Website]: https://www.uco.edu 'Website of the University of Central Oklahoma'
+[Central Oklahoma Twitter]: https://twitter.com/UCOBronchos 'Twitter account of the University of Central Oklahoma'
+[Central Oklahoma Map]: https://www.openstreetmap.org/way/238116988 'University of Central Oklahoma on OpenStreetMaps'
+[Harvard GitHub]: https://github.com/harvard 'GitHub organization of the University of Harvard'
+[Harvard Website]: https://harvard.edu 'Website of the University of Harvard'
+[Harvard Twitter]: https://twitter.com/harvard 'Twitter account of the University of Harvard'
+[Harvard Map]: https://www.openstreetmap.org/relation/2415825 'University of Harvard on OpenStreetMaps'
 
 [Website]: https://img.shields.io/badge/Website-414141?style=for-the-badge
 [Map]: https://img.shields.io/badge/Map-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white
