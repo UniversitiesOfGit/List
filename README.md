@@ -180,7 +180,7 @@
 
 [![Website]][Delaware Website] [![Map]][Delaware Map] [![Twitter]][Delaware Twitter]
 
-[![](https://img.shields.io/badge/IT_--_Research_Cyberinfrastructure-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/University-of-Delaware-IT-RCI)
+**[❌]** [![](https://img.shields.io/badge/IT_--_Research_Cyberinfrastructure-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/University-of-Delaware-IT-RCI)<br>
 
 
 ---
@@ -234,7 +234,7 @@
 
 [![Website]][Groningen Website] [![Map]][Groningen Map] [![Twitter]][Groningen Twitter]
 
-[![](https://img.shields.io/badge/Distributed_Systems-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-ds-lab)[![](https://img.shields.io/badge/Artificial_Intelligence-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-ai-oop)[![](https://img.shields.io/badge/High_Performance_Computing-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-cit-hpc)[![](https://img.shields.io/badge/Research_Data_Management_System-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-cit-rdms)[![](https://img.shields.io/badge/Computational_Linguistics-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-compling)[![](https://img.shields.io/badge/Library-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/University-of-Groningen-Library)[![](https://img.shields.io/badge/Data_Science_Team-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-cit-ds)
+**[❌]** [![](https://img.shields.io/badge/Research_Data_Management_System-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-cit-rdms)<br>**[❌]** [![](https://img.shields.io/badge/High_Performance_Computing-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-cit-hpc)<br>**[❌]** [![](https://img.shields.io/badge/Computational_Linguistics-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-compling)<br>**[❌]** [![](https://img.shields.io/badge/Artificial_Intelligence-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-ai-oop)<br>**[❌]** [![](https://img.shields.io/badge/Distributed_Systems-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-ds-lab)<br>**[❌]** [![](https://img.shields.io/badge/Data_Science_Team-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rug-cit-ds)<br>**[❌]** [![](https://img.shields.io/badge/Library-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/University-of-Groningen-Library)<br>
 
 
 ---
